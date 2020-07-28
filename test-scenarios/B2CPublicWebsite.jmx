@@ -17,7 +17,7 @@
           <boolProp name="LoopController.continue_forever">false</boolProp>
           <stringProp name="LoopController.loops">10</stringProp>
         </elementProp>
-        <stringProp name="ThreadGroup.num_threads">1</stringProp>
+        <stringProp name="ThreadGroup.num_threads">5</stringProp>
         <stringProp name="ThreadGroup.ramp_time">100</stringProp>
         <longProp name="ThreadGroup.start_time">1497626650000</longProp>
         <longProp name="ThreadGroup.end_time">1497626650000</longProp>
@@ -838,7 +838,7 @@
           <boolProp name="LoopController.continue_forever">false</boolProp>
           <stringProp name="LoopController.loops">10</stringProp>
         </elementProp>
-        <stringProp name="ThreadGroup.num_threads">13</stringProp>
+        <stringProp name="ThreadGroup.num_threads">65</stringProp>
         <stringProp name="ThreadGroup.ramp_time">100</stringProp>
         <longProp name="ThreadGroup.start_time">1497626650000</longProp>
         <longProp name="ThreadGroup.end_time">1497626650000</longProp>
@@ -1204,7 +1204,7 @@
           <boolProp name="LoopController.continue_forever">false</boolProp>
           <stringProp name="LoopController.loops">10</stringProp>
         </elementProp>
-        <stringProp name="ThreadGroup.num_threads">13</stringProp>
+        <stringProp name="ThreadGroup.num_threads">65</stringProp>
         <stringProp name="ThreadGroup.ramp_time">100</stringProp>
         <longProp name="ThreadGroup.start_time">1497626650000</longProp>
         <longProp name="ThreadGroup.end_time">1497626650000</longProp>
@@ -1558,7 +1558,7 @@
           <boolProp name="LoopController.continue_forever">false</boolProp>
           <stringProp name="LoopController.loops">10</stringProp>
         </elementProp>
-        <stringProp name="ThreadGroup.num_threads">13</stringProp>
+        <stringProp name="ThreadGroup.num_threads">65</stringProp>
         <stringProp name="ThreadGroup.ramp_time">100</stringProp>
         <longProp name="ThreadGroup.start_time">1497626650000</longProp>
         <longProp name="ThreadGroup.end_time">1497626650000</longProp>
